@@ -21,6 +21,7 @@ header {
 nav {
   display: flex;
   background-color: #d8a47f;
+  justify-content: flex-end;
 }
 
 nav a {
@@ -59,6 +60,12 @@ footer {
 .product-details {
   margin-left: 3%;
   flex: 0 0 60%;
+}
+
+#slideshowButton {
+  height: 2rem;
+  display: flex;
+  align-self: center;
 }
 
 @media screen and (max-width: 768px) {

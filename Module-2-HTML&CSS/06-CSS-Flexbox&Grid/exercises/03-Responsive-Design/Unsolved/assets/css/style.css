@@ -16,7 +16,7 @@ header {
 
 /* 
 What happens when we set the display property to flex? 
-TODO: Write your answer here 
+TODO: Makes the child elements also flex and more responsive
 */
 nav {
   display: flex;
@@ -32,7 +32,7 @@ nav a {
 
 /* 
 What is the flex-wrap property? 
-TODO: Write your answer here 
+TODO: The flex-wrap property specifies whether the flexible items should wrap or not 
 */
 main {
   display: flex;
@@ -56,7 +56,7 @@ footer {
 
 /* 
 What does the justify-content property do? 
-TODO: Write your answer here 
+TODO: Aligns the flex containers on the main axis
 */
 .products {
   flex: 4;
@@ -70,7 +70,7 @@ TODO: Write your answer here
 /* 
 What is the flex property a shorthand property for?
 What is it doing here? 
-TODO: Write your answer here 
+TODO: short for flex-grow/shrink and flexing the properties
 */
 .card {
   border-style: solid;
