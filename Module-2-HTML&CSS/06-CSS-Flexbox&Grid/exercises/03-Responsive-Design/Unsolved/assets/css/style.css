@@ -96,6 +96,7 @@ TODO: short for flex-grow/shrink and flexing the properties
 What does the flex-direction property define?
 What is it doing here? 
 TODO: Write your answer here 
+changes the child elements from row to column the screen is below 768px
 */
 @media screen and (max-width: 768px) {
   main,
